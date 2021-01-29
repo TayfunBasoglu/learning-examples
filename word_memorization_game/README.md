@@ -17,8 +17,8 @@ TextBlob: Simplified Text Processing
 
 [https://textblob.readthedocs.io/en/dev/](https://textblob.readthedocs.io/en/dev/)
 [https://github.com/sloria/TextBlob](https://github.com/sloria/TextBlob)
-```python
-pip3 install textblob
-```
 
-![image](https://github.com/TayfunBasoglu/learning-examples/blob/main/word_memorization_game/wmg.gif)
+    pip3 install textblob
+
+
+![](wmg.gif)
