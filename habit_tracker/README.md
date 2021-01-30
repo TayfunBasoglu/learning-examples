@@ -5,8 +5,8 @@ It’s a simple code for tracking a habit. You may add or delete a habit and or 
 
     pip install tabulate (0.8.7)
     pip install pandas (1.2.0)
-    pip install numpy (1.19.3)
     pip install matplotlib (3.3.3)
+        os,sys,time,datetime
 
 # Setup
 If there’s no database the setup function will start.
