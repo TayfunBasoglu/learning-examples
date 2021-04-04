@@ -11,9 +11,12 @@ Change directory
 
 
 
-Before
+## Before
+
+
 <img src="images/2.png">
 
-After
+
+## After
 
 <img src="images/3.png">
