@@ -12,8 +12,8 @@ Change directory
 
 
 Before
-<img src="images/2.gif">
+<img src="images/2.png">
 
 After
 
-<img src="images/3.gif">
+<img src="images/3.png">
