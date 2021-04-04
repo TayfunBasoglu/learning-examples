@@ -7,7 +7,7 @@ Change directory
 
 		path = r'Test'
 
-<img src="/images/1.gif">
+<img src="images/1.gif">
 
 
 
